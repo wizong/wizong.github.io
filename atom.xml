@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>wizong博客</title>
+  <subtitle>桀骜不羁的我</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-07-07T15:16:04.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>wizong</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>你是过来看我的吗？</title>
+    <link href="http://yoursite.com/2017/07/07/first%20word/"/>
+    <id>http://yoursite.com/2017/07/07/first word/</id>
+    <published>2017-07-07T15:00:08.000Z</published>
+    <updated>2017-07-07T15:16:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>在你心中，我是多么桀骜不羁。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;在你心中，我是多么桀骜不羁。&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="wizong" scheme="http://yoursite.com/categories/wizong/"/>
+    
+    
+  </entry>
+  
+</feed>
